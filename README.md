@@ -11,8 +11,28 @@
   <a href="https://github.com/FutraXs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-_HANYA ANAK KECIL YANG SUKA PYTHON_
+_SERING DI RENDAHKAN TAPI TETAP MERENDAH_
 ___
+<p align="center">
+  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&theme=dark&locale=id">
+</p>
+<p align="center" width="100%" height="auto">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta&style=flat-square&color=darkgreen"/>
+    <img src="https://img.shields.io/github/followers/Dapunta?style=flat-square&color=blue"/>
+    <img src="https://img.shields.io/github/stars/Dapunta?style=flat-square&color=yellow"/>
+</p>
+<div align="center">
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=dark">
+</div>
+<div align="center">
+  <a href="https://github.com/FutraXynarra/Instagram-"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Instagram-&theme=dark"></a>
+  <a href="https://github.com/LuciverXploit/Xyn"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Xyn&theme=dark"></a>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,html" />
+  </a>
+</p>
 
 
 
