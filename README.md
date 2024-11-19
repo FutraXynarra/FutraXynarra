@@ -4,7 +4,7 @@
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
-<img src="https://id.pinterest.com/pin/877779783610365951/" width="120" height="120" align="left">
+<img src="https://github.com/FutraXynarra/FutraXynarra/blob/main/IMG_20241031_195651.png" width="120" height="120" align="left">
 <center>
 <p align="center">
   <a href="https://wa.me/qr/123456789011"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -23,16 +23,16 @@ ___
 </video>
 
 <div align="center">
-  <a href="https://github.com/FutraXynarra/Instagram-"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Instagram-&theme=dark"></a>
-  <a href="https://github.com/FutraXynarra/Xyn"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Xyn&theme=dark"></a>
+  <a href="https://github.com/FutraXynarra/Facebook-"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Facebook&theme=dark"></a>
+  <a href="https://github.com/FutraXynarra/Instagram"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Instagram&theme=dark"></a>
 </div>
 
 <div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=dark">
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutraXynarra&layout=compact&theme=dark">
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,html" />
+    <img src="https://skillicons.dev/icons?i=python,css,html" />
   </a>
 </p>
