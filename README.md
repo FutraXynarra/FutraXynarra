@@ -4,7 +4,7 @@
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
-<img src="https://github.com/LuciverXploit/LuciverXploit/blob/main/ade7ba57bd941b801c79128ffc54cd60.jpg" width="120" height="120" align="left">
+<img src="https://id.pinterest.com/pin/877779783610365951/" width="120" height="120" align="left">
 <center>
 <p align="center">
   <a href="https://wa.me/qr/123456789011"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
