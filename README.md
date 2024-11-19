@@ -19,7 +19,7 @@ ___
 </video>
 
 <div align="center">
-  <a href="https://github.com/FutraXynarra/Facebook-"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Facebook&theme=dark"></a>
+  <a href="https://github.com/FutraXynarra/Facebook"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Facebook&theme=dark"></a>
   <a href="https://github.com/FutraXynarra/Instagram"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=FutraXynarra&repo=Instagram&theme=dark"></a>
 </div>
 
